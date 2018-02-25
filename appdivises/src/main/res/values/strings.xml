@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Currency converter Application</string>
+    <string name="change">Change</string>
+    <string name="selector">Currency</string>
+    <string name="_0_00">0.00</string>
+    <string name="commission">Commission</string>
+    <string name="factor">Factor Exchange</string>
+    <string name="check_desc">Enable/Disable</string>
+</resources>
